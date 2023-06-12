@@ -1,0 +1,2 @@
+insert into customer_eureka(customer_id,first_name,last_name,email) values('cus-1','Mounika','M','m@gmail.com');
+insert into customer_eureka(customer_id,first_name,last_name,email) values('cus-2','Vijay','CH','v@gmail.com');
